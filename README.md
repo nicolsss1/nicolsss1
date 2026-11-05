@@ -99,9 +99,9 @@ Estruturas de dados (listas encadeadas e afins) — repositórios da faculdade f
 
 ### 🧭 Como eu trabalho
 
-> **Dado de paciente não vai para log, teste nem print.**
-> **Toda mudança no banco passa por regra de acesso.**
-> **Uma tela boa é a que a recepção usa sem precisar de treinamento.**
+<p align="center">
+  <i>"Escrevo cada tela pensando em quem vai usá-la às 7h da manhã, com a recepção cheia e o paciente esperando."</i>
+</p>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:1e3a8a,100:0f766e&section=footer" alt="" />
