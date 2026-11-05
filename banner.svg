@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Nicolas Barros — Desenvolvedor Full Stack">
+  <defs>
+    <linearGradient id="fundo" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0" stop-color="#0b1222"/>
+      <stop offset="0.45" stop-color="#0f5e5a"/>
+      <stop offset="1" stop-color="#1e3a8a"/>
+    </linearGradient>
+    <linearGradient id="pulso" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2dd4bf" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#5eead4" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#2dd4bf" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grade" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#ffffff" opacity="0.07"/>
+    </pattern>
+    <clipPath id="recorte">
+      <rect width="1200" height="300" rx="18"/>
+    </clipPath>
+    <style>
+      .ecg { stroke-dasharray: 1400; stroke-dashoffset: 1400; animation: desenha 4.5s ease-in-out infinite; }
+      @keyframes desenha { 0% { stroke-dashoffset: 1400; } 60%, 100% { stroke-dashoffset: 0; } }
+      .nome { font: 800 76px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 1px; }
+      .sub  { font: 600 25px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; letter-spacing: 0.5px; }
+      .tag  { font: 600 15px 'Consolas', 'Fira Code', monospace; letter-spacing: 1.5px; }
+    </style>
+  </defs>
+
+  <g clip-path="url(#recorte)">
+    <rect width="1200" height="300" fill="url(#fundo)"/>
+    <rect width="1200" height="300" fill="url(#grade)"/>
+
+    <!-- linha de batimento -->
+    <path class="ecg" fill="none" stroke="url(#pulso)" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"
+      d="M0 130 H120 L135 112 L150 148 L168 62 L188 200 L206 130 H310 M890 130 H990 L1005 112 L1020 148 L1038 62 L1058 200 L1076 130 H1200"/>
+
+    <!-- textos -->
+    <text x="600" y="150" text-anchor="middle" class="nome" fill="#ffffff">Nicolas Barros</text>
+    <text x="600" y="196" text-anchor="middle" class="sub" fill="#ccfbf1">Desenvolvedor Full Stack · React · TypeScript · Supabase</text>
+    <text x="600" y="232" text-anchor="middle" class="tag" fill="#5eead4" opacity="0.85">&lt;/&gt; SISTEMAS PARA A ÁREA DA SAÚDE</text>
+
+    <!-- ondas -->
+    <path d="M0 262 C 220 236, 420 290, 640 268 S 1010 236, 1200 258 V300 H0 Z" fill="#0d1117" opacity="0.45"/>
+    <path d="M0 282 C 260 262, 520 300, 780 284 S 1080 266, 1200 280 V300 H0 Z" fill="#0d1117"/>
+  </g>
+</svg>

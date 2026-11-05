@@ -1,6 +1,6 @@
 <!-- Cabeçalho -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=200&color=0:0f766e,100:1e3a8a&text=Nicolas%20Barros&fontColor=ffffff&fontSize=60&fontAlignY=40&desc=Full%20Stack%20Developer%20%C2%B7%20React%20%C2%B7%20TypeScript%20%C2%B7%20Supabase&descSize=20&descAlignY=65" alt="Nicolas Barros" />
+  <img width="100%" src="./banner.svg" alt="Nicolas Barros — Desenvolvedor Full Stack" />
 </p>
 
 <p align="center">
