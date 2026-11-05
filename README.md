@@ -42,7 +42,7 @@ Sou **Desenvolvedor Full Stack** e atuo em um sistema usado todos os dias por re
 | :-- | :-- |
 | **Front-end** | <img src="https://skillicons.dev/icons?i=react,ts,js,vite,tailwind,html,css" alt="Front-end" /> |
 | **Back-end e dados** | <img src="https://skillicons.dev/icons?i=supabase,postgres,deno,nodejs" alt="Back-end" /> |
-| **Qualidade e entrega** | <img src="https://skillicons.dev/icons?i=git,github,githubactions,vitest,vscode" alt="Qualidade" /> |
+| **DevOps e qualidade** | <img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vitest,vscode" alt="DevOps e qualidade" /> |
 | **Outras** | <img src="https://skillicons.dev/icons?i=c,cloudflare" alt="Outras" /> |
 
 Também uso: TanStack Query · React Hook Form · Zod · Radix UI · Recharts · TipTap · geração de PDF e DOCX · webhooks · integração com WhatsApp · Claude Code · Lovable
