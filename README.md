@@ -1,6 +1,6 @@
 <!-- Cabeçalho -->
 <p align="center">
-  <img width="100%" src="./banner.svg" alt="Nicolas Braga — Desenvolvedor Full Stack" />
+  <img width="100%" src="./banner.svg" alt="Nicolas Braga — Desenvolvedor Full Stack Júnior" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ```ts
 const nicolas = {
-  papel: "Desenvolvedor Full Stack",
+  papel: "Desenvolvedor Full Stack Júnior",
   atuacao: "Desenvolvimento e TI de um sistema de gestão clínica em produção",
   local: "Fortaleza, CE – Brasil",
   idiomas: ["Português (nativo)", "Inglês (técnico)"],
@@ -27,7 +27,7 @@ const nicolas = {
 };
 ```
 
-Sou **Desenvolvedor Full Stack** e atuo em um sistema usado todos os dias por recepção, administrativo e profissionais de saúde. Cuido de tudo: a modelagem do banco e as regras de acesso, as funções no servidor e a tela que a pessoa usa. Gosto de transformar um pedido de uma equipe não técnica em uma funcionalidade simples de usar e segura para os dados de pacientes.
+Sou **Desenvolvedor Full Stack Júnior** e atuo em um sistema usado todos os dias por recepção, administrativo e profissionais de saúde. Cuido de tudo: a modelagem do banco e as regras de acesso, as funções no servidor e a tela que a pessoa usa. Gosto de transformar um pedido de uma equipe não técnica em uma funcionalidade simples de usar e segura para os dados de pacientes.
 
 - 🏥 **1.200+ commits** em produção em 5 meses, em um sistema com 70+ edge functions
 - 🔐 Aprofundando em **segurança de dados**, **Row Level Security** e **LGPD**

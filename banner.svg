@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Nicolas Braga — Desenvolvedor Full Stack">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Nicolas Braga — Desenvolvedor Full Stack Júnior">
   <defs>
     <linearGradient id="fundo" x1="0" y1="0" x2="1" y2="0.4">
       <stop offset="0" stop-color="#0b1222"/>
@@ -35,7 +35,7 @@
 
     <!-- textos -->
     <text x="600" y="150" text-anchor="middle" class="nome" fill="#ffffff">Nicolas Braga</text>
-    <text x="600" y="196" text-anchor="middle" class="sub" fill="#ccfbf1">Desenvolvedor Full Stack · React · TypeScript · Supabase</text>
+    <text x="600" y="196" text-anchor="middle" class="sub" fill="#ccfbf1">Desenvolvedor Full Stack Júnior · React · TypeScript · Supabase</text>
     <text x="600" y="232" text-anchor="middle" class="tag" fill="#5eead4" opacity="0.85">&lt;/&gt; SISTEMAS PARA A ÁREA DA SAÚDE</text>
 
     <!-- ondas -->
