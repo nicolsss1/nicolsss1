@@ -1,6 +1,6 @@
 <!-- Cabeçalho -->
 <p align="center">
-  <img width="100%" src="./banner.svg" alt="Nicolas Barros — Desenvolvedor Full Stack" />
+  <img width="100%" src="./banner.svg" alt="Nicolas Braga — Desenvolvedor Full Stack" />
 </p>
 
 <p align="center">
